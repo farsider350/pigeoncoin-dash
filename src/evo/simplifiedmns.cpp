@@ -5,7 +5,6 @@
 #include <evo/cbtx.h>
 #include <core_io.h>
 #include <evo/deterministicmns.h>
-#include <llmq/quorums.h>
 #include <llmq/quorums_blockprocessor.h>
 #include <llmq/quorums_commitment.h>
 #include <evo/simplifiedmns.h>
@@ -23,7 +22,7 @@ CSimplifiedMNListEntry::CSimplifiedMNListEntry(const CDeterministicMN& dmn) :
     service(dmn.pdmnState->addr),
     pubKeyOperator(dmn.pdmnState->pubKeyOperator),
     keyIDVoting(dmn.pdmnState->keyIDVoting),
-    isValid(dmn.pdmnState->nPoSeBanHeight == -1)
+    isValid(!dmn.pdmnState->IsBanned())
 {
 }
 
@@ -88,13 +87,9 @@ uint256 CSimplifiedMNList::CalcMerkleRoot(bool* pmutated) const
     return ComputeMerkleRoot(leaves, pmutated);
 }
 
-CSimplifiedMNListDiff::CSimplifiedMNListDiff()
-{
-}
+CSimplifiedMNListDiff::CSimplifiedMNListDiff() = default;
 
-CSimplifiedMNListDiff::~CSimplifiedMNListDiff()
-{
-}
+CSimplifiedMNListDiff::~CSimplifiedMNListDiff() = default;
 
 bool CSimplifiedMNListDiff::BuildQuorumsDiff(const CBlockIndex* baseBlockIndex, const CBlockIndex* blockIndex)
 {
