@@ -526,7 +526,7 @@
         <translation>แถบเครื่องมือ</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dash network</source>
+        <source>%n active connection(s) to Pigeon network</source>
         <translation><numerusform>%n เชื่อมต่อใช้งานกับเครือข่าย Dash</numerusform></translation>
     </message>
     <message>
@@ -1137,7 +1137,7 @@
         <translation>รูป</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Dash network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Pigeon network, as detailed below.</source>
         <translation>การทำธุรกรรมล่าสุดอาจยังไม่สามารถเห็นได้และทำให้ยอดคงเหลือของ wallet ของคุณไม่ถูกต้อง ข้อมูลนี้จะถูกต้องก่อนที่ Wallet ของคุณจะเสร็จสิ้นการซิงค์กับเครือข่าย Dash ตามรายละเอียดด้านล่างนี้</translation>
     </message>
     <message>
@@ -1283,7 +1283,7 @@
         <translation>เปิดพอร์ต Pigeon Core client บนเราเตอร์โดยอัตโนมัติ การทำงานนี้ใช้ได้เฉพาะเมื่อเราเตอร์ของคุณรองรับ UPnP และเปิดใช้งานแล้ว</translation>
     </message>
     <message>
-        <source>Connect to the Dash network through a SOCKS5 proxy.</source>
+        <source>Connect to the Pigeon network through a SOCKS5 proxy.</source>
         <translation>เชื่อมต่อกับเครือข่าย Dash ผ่านพร็อกซี่แบบ SOCKS5</translation>
     </message>
     <message>
@@ -1383,7 +1383,7 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Dash network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Pigeon network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>เชื่อมต่อกับ เครือข่าย Dash ผ่านทาง พร้อกซี่ SOCKS5 แยกต่างหาก สำหรับ Tor เซอร์วิส</translation>
     </message>
     <message>
@@ -1508,7 +1508,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>รูป</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pigeon network after a connection is established, but this process has not completed yet.</source>
         <translation>ข้อมูลที่แสดงอาจล้าสมัย  Wallet ของคุณจะทำข้อมูลให้ตรงกับเครือข่าย Dash โดยอัตโนมัติหลังจากที่มีการเชื่อมต่อแล้ว แต่กระบวนการนี้ยังไม่เสร็จสมบูรณ์</translation>
     </message>
     <message>
@@ -2381,7 +2381,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>ใช้ที่อยู่รับที่มีอยู่ (ไม่แนะนำ)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pigeon network.</source>
         <translation>ข้อความเสริมที่จะแนบไปกับคำขอการชำระเงินซึ่งจะแสดงขึ้นเมื่อมีการเปิดคำขอ หมายเหตุ: ข้อความจะไม่ถูกส่งพร้อมกับการชำระเงินผ่านเครือข่าย Dash</translation>
     </message>
     <message>
@@ -2393,7 +2393,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>ป้ายกำกับเพิ่มเติมสำหรับเชื่อมโยงกับที่อยู่รับใหม่</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dash network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pigeon network.</source>
         <translation>ข้อความเสริมที่จะแนบไปกับคำขอการชำระเงินซึ่งจะแสดงขึ้นเมื่อมีการเปิดคำขอ&lt;br&gt; หมายเหตุ: ข้อความจะไม่ถูกส่งพร้อมกับการชำระเงินผ่านเครือข่าย Dash</translation>
     </message>
     <message>
@@ -2881,7 +2881,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>ข้อความ: </translation>
     </message>
     <message>
-        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</source>
+        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pigeon network.</source>
         <translation>ข้อความที่แนบมาไปยัง Dash: URI ซึ่งจะถูกเก็บไว้กับธุรกรรมเพื่อเป็นข้อมูลอ้างอิงของคุณ  หมายเหตุ: ข้อความนี้จะถูกส่งไปยังเครือข่าย Dash </translation>
     </message>
     <message>

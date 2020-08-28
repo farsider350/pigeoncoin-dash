@@ -1182,7 +1182,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pigeon network after a connection is established, but this process has not completed yet.</source>
         <translation>Den visade informationen kan vara utdaterad. Din plånbok synkroniseras automatiskt med Dash-nätverket efter att en anslutning har etablerats men denna process har ännu inte slutförts.</translation>
     </message>
     <message>
@@ -1542,7 +1542,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Åt&amp;eranvänd en befintlig mottagaradress (rekommenderas inte)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pigeon network.</source>
         <translation>Ett valfritt meddelande att bifoga betalningsbegärandet vilket kommer att visas när begärandet öppnas. Observera: Meddelandet kommer inte att skickas med betalningen över Dash-nätverket.</translation>
     </message>
     <message>
@@ -1958,7 +1958,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Meddelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</source>
+        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pigeon network.</source>
         <translation>Ett meddelande som bifogades till Dash: URI vilket kommer att lagras med transaktionen så att du vet. Observera: Meddelandet kommer inte att skickas över Dash-nätverket.</translation>
     </message>
     <message>

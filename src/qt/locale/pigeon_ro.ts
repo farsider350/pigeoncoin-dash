@@ -70,11 +70,11 @@
         <translation>Adresa de primire</translation>
     </message>
     <message>
-        <source>These are your Dash addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Pigeoncoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Acestea sunt adresele tale Dash pentru efectuarea platilor. Intotdeauna verifica atent suma de plata si adresa beneficiarului inainte de a trimite monede.</translation>
     </message>
     <message>
-        <source>These are your Dash addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Pigeoncoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Acestea sunt adresele tale Dash pentru receptionarea platilor. Este recomandat sa folosesti mereu o adresa noua pentru primirea platilor.</translation>
     </message>
     <message>
@@ -188,8 +188,8 @@
         <translation>Confirmaţi criptarea portofelului</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DASH&lt;/b&gt;!</source>
-        <translation>Avertisment: dacă criptezi portofelul și pierzi fraza de acces, vei &lt;b&gt;PIERDE TOATE MONEDELE TALE DASH&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PGN&lt;/b&gt;!</source>
+        <translation>Avertisment: dacă criptezi portofelul și pierzi fraza de acces, vei &lt;b&gt;PIERDE TOATE MONEDELE TALE PGN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -286,7 +286,7 @@
         <translation>Trimite</translation>
     </message>
     <message>
-        <source>Send coins to a Dash address</source>
+        <source>Send coins to a Pigeoncoin address</source>
         <translation>Trimite monede către o adresă Dash</translation>
     </message>
     <message>
@@ -394,7 +394,7 @@
         <translation>Semnează &amp;mesaj...</translation>
     </message>
     <message>
-        <source>Sign messages with your Dash addresses to prove you own them</source>
+        <source>Sign messages with your Pigeoncoin addresses to prove you own them</source>
         <translation>Semnaţi mesaje cu adresa dvs. Dash pentru a dovedi că vă aparţin</translation>
     </message>
     <message>
@@ -402,7 +402,7 @@
         <translation>&amp;Verifică mesaj...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Dash addresses</source>
+        <source>Verify messages to ensure they were signed with specified Pigeoncoin addresses</source>
         <translation>Verificaţi mesaje pentru a vă asigura că au fost semnate cu adresa Dash specificată</translation>
     </message>
     <message>
@@ -526,7 +526,7 @@
         <translation>Bara de file</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Dash network</source>
+        <source>%n active connection(s) to Pigeon network</source>
         <translation><numerusform>%n conexiune activă la rețeaua Dash</numerusform><numerusform>%n conexiuni active la rețeaua Dash</numerusform><numerusform>%n conexiuni active la rețeaua Dash </numerusform></translation>
     </message>
     <message>
@@ -866,7 +866,7 @@
         <translation>Editează adresa de trimitere</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Dash address.</source>
+        <source>The entered address "%1" is not a valid Pigeoncoin address.</source>
         <translation>Adresa introdusă "%1" nu este o adresă Dash validă</translation>
     </message>
     <message>
@@ -1133,7 +1133,7 @@
         <translation>Form</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Dash network, as detailed below.</source>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Pigeon network, as detailed below.</source>
         <translation>Tranzactiile recente pot sa nu fie inca vizibile, de aceea balanta portofelului poate fi incorecta. Aceasta informatie va fi corecta de indata ce portofelul va fi complet sincronizat cu reteaua Dash, asa cum este detaliat mai jos.</translation>
     </message>
     <message>
@@ -1279,7 +1279,7 @@
         <translation>Deschide automat portul client Pigeon Core de pe router. Asta funcționează numai atunci când routerul dvs. acceptă UPnP și este activat.</translation>
     </message>
     <message>
-        <source>Connect to the Dash network through a SOCKS5 proxy.</source>
+        <source>Connect to the Pigeon network through a SOCKS5 proxy.</source>
         <translation>Conectare la reţeaua Dash printr-un proxy SOCKS.</translation>
     </message>
     <message>
@@ -1379,7 +1379,7 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Dash network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Pigeon network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>Conectare la reteaua Dash printr-un proxy SOCKS5 separat pentru serviciile TOR ascunse.</translation>
     </message>
     <message>
@@ -1504,7 +1504,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pigeon network after a connection is established, but this process has not completed yet.</source>
         <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Dash după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
@@ -1588,8 +1588,8 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Suma și Runde:</translation>
     </message>
     <message>
-        <source>0 DASH / 0 Rounds</source>
-        <translation>0 DASH / 0 Runde</translation>
+        <source>0 PGN / 0 Rounds</source>
+        <translation>0 PGN / 0 Runde</translation>
     </message>
     <message>
         <source>Submitted Denom:</source>
@@ -1753,7 +1753,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Adresă pentru plată invalidă %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Dash address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Pigeoncoin address or malformed URI parameters.</source>
         <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresă Dash invalidă sau parametri URI deformaţi.</translation>
     </message>
     <message>
@@ -1851,7 +1851,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Cantitate</translation>
     </message>
     <message>
-        <source>Enter a Dash address (e.g. %1)</source>
+        <source>Enter a Pigeoncoin address (e.g. %1)</source>
         <translation>Introduceţi o adresă Dash (de exemplu %1)</translation>
     </message>
     <message>
@@ -2377,7 +2377,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>R&amp;eutilizează o adresă de primire existentă (nerecomandat)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pigeon network.</source>
         <translation>Un mesaj opţional de ataşat la cererea de plată, care va fi afişat cînd cererea este deschisă. Notă: Acest mesaj nu va fi trimis cu plata către reţeaua Dash.</translation>
     </message>
     <message>
@@ -2389,7 +2389,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>O etichetă opţională de asociat cu adresa de primire.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dash network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pigeon network.</source>
         <translation>Un mesaj opțional pentru a atașa solicitării de plată, care va fi afișat la deschiderea cererii.&lt;br&gt;Notă: mesajul nu va fi trimis cu plata prin rețeaua Dash.</translation>
     </message>
     <message>
@@ -2798,7 +2798,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation><numerusform>Înceaperea confirmării estimată într-un %n block.</numerusform><numerusform>Înceaperea confirmării estimată în %n block-uri.</numerusform><numerusform>Înceaperea confirmării estimată în %n block-uri.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Dash address</source>
+        <source>Warning: Invalid Pigeoncoin address</source>
         <translation>Atenţie: Adresa Dash nevalidă!</translation>
     </message>
     <message>
@@ -2829,7 +2829,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Plăteşte că&amp;tre:</translation>
     </message>
     <message>
-        <source>The Dash address to send the payment to</source>
+        <source>The Pigeoncoin address to send the payment to</source>
         <translation>Adresa Dash către care se face plata</translation>
     </message>
     <message>
@@ -2877,7 +2877,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Mesaj:</translation>
     </message>
     <message>
-        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</source>
+        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pigeon network.</source>
         <translation>un mesaj a fost ataşat la Dash: URI care va fi stocat cu tranzacţia pentru referinţa dvs. Notă: Acest mesaj nu va fi trimis către reţeaua Dash.</translation>
     </message>
     <message>
@@ -2934,7 +2934,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Poți semna mesaje / acorduri cu adreseletale pentru a dovedi că poți primi Dash trimis la ele. Ai grijă să nu semnezi nimic vag sau întâmplător, deoarece atacurile de tip phishing pot încerca să te păcălească să le dai identitatea ta. Semnează declarații complet-detaliate cu care ești de acord.</translation>
     </message>
     <message>
-        <source>The Dash address to sign the message with</source>
+        <source>The Pigeoncoin address to sign the message with</source>
         <translation>Adresa cu care semnaţi mesajul</translation>
     </message>
     <message>
@@ -2966,7 +2966,7 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Copiaza semnatura curenta in clipboard-ul sistemului</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Dash address</source>
+        <source>Sign the message to prove you own this Pigeoncoin address</source>
         <translation>Semnează mesajul pentru a dovedi ca deţineţi acestă adresă Dash</translation>
     </message>
     <message>
@@ -2990,11 +2990,11 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <translation>Introduceţi adresa de semnatură, mesajul (asiguraţi-vă că aţi copiat spaţiile, taburile etc. exact) şi semnatura dedesubt pentru a verifica mesajul. Aveţi grijă să nu citiţi mai mult în semnatură decît mesajul în sine, pentru a evita să fiţi păcăliţi de un atac de tip man-in-the-middle. De notat ca aceasta dovedeste doar ca semnatarul primeste odata cu adresa, nu dovedesta insa trimiterea vreunei tranzactii.</translation>
     </message>
     <message>
-        <source>The Dash address the message was signed with</source>
+        <source>The Pigeoncoin address the message was signed with</source>
         <translation>Introduceţi o adresă Dash</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Dash address</source>
+        <source>Verify the message to ensure it was signed with the specified Pigeoncoin address</source>
         <translation>Verificaţi mesajul pentru a vă asigura că a fost semnat cu adresa Dash specificată</translation>
     </message>
     <message>

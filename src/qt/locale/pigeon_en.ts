@@ -668,10 +668,10 @@
     </message>
     <message numerus="yes">
         <location line="+375"/>
-        <source>%n active connection(s) to Dash network</source>
+        <source>%n active connection(s) to Pigeon network</source>
         <translation>
-            <numerusform>%n active connection to Dash network</numerusform>
-            <numerusform>%n active connections to Dash network</numerusform>
+            <numerusform>%n active connection to Pigeon network</numerusform>
+            <numerusform>%n active connections to Pigeon network</numerusform>
         </translation>
     </message>
     <message>
@@ -1495,8 +1495,8 @@
     </message>
     <message>
         <location line="+117"/>
-        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Dash network, as detailed below.</source>
-        <translation>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Dash network, as detailed below.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Pigeon network, as detailed below.</source>
+        <translation>Recent transactions may not yet be visible, and therefore your wallet&apos;s balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the Pigeon network, as detailed below.</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1684,8 +1684,8 @@
     </message>
     <message>
         <location line="+20"/>
-        <source>Connect to the Dash network through a SOCKS5 proxy.</source>
-        <translation>Connect to the Dash network through a SOCKS5 proxy.</translation>
+        <source>Connect to the Pigeon network through a SOCKS5 proxy.</source>
+        <translation>Connect to the Pigeon network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1821,8 +1821,8 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Dash network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Connect to the Dash network through a separate SOCKS5 proxy for Tor hidden services.</translation>
+        <source>Connect to the Pigeon network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Connect to the Pigeon network through a separate SOCKS5 proxy for Tor hidden services.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1979,8 +1979,8 @@ https://www.transifex.com/projects/p/pigeon/</translation>
         <location line="+53"/>
         <location line="+352"/>
         <location line="+200"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Dash network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Pigeon network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Pigeon network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-306"/>
@@ -3166,8 +3166,8 @@ https://www.transifex.com/projects/p/pigeon/</translation>
     </message>
     <message>
         <location line="+14"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Dash network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pigeon network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Pigeon network.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3182,8 +3182,8 @@ https://www.transifex.com/projects/p/pigeon/</translation>
     </message>
     <message>
         <location line="-14"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dash network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Dash network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pigeon network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Pigeon network.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -3836,8 +3836,8 @@ https://www.transifex.com/projects/p/pigeon/</translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</source>
-        <translation>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Dash network.</translation>
+        <source>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pigeon network.</source>
+        <translation>A message that was attached to the pigeon: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Pigeon network.</translation>
     </message>
     <message>
         <location line="+433"/>
@@ -5289,8 +5289,8 @@ https://www.transifex.com/projects/p/pigeon/</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Keep N DASH mixed (%u-%u, default: %u)</source>
-        <translation>Keep N DASH mixed (%u-%u, default: %u)</translation>
+        <source>Keep N PGN mixed (%u-%u, default: %u)</source>
+        <translation>Keep N PGN mixed (%u-%u, default: %u)</translation>
     </message>
     <message>
         <location line="+1"/>
